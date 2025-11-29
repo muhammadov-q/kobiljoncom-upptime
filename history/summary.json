@@ -4,17 +4,19 @@
     "url": "https://www.kobiljon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kobiljon.com.ico",
     "slug": "kobiljoncom",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 2501,
+    "timeDay": 2501,
+    "timeWeek": 2501,
+    "timeMonth": 2501,
+    "timeYear": 2501,
+    "dailyMinutesDown": {
+      "2025-11-29": 11
+    }
   }
 ]
