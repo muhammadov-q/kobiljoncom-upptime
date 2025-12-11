@@ -4,7 +4,7 @@
     "url": "https://www.kobiljon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kobiljon.com.ico",
     "slug": "kobiljoncom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "97.94%",
     "uptimeWeek": "99.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2025-12-11": 0,
       "2025-12-10": 30
     }
   }
